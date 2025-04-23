@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, welcome to my profile!👋
 
+I'm a first-generation student at Queens University of Charlotte, and I'm double majoring in Computer and Data Analytics and Business. My dream is to start my own business while using the skills I'm learning. 
 <!--
 **emilsyf/emilsyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
